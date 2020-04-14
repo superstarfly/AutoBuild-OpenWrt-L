@@ -35,3 +35,7 @@
 - 主要功能： `Ssr Plus+` `Passwall`  `Openclash`  `clash`  `Adguard Home` `多线多拨` `负载均衡`
 
 - 其他功能： `KoolProxyR plus+` `广告屏蔽大师plus+` `解锁网易云灰色歌曲` `动态DNS` `Frp内网穿透` `frps服务端` `Kms服务器` `Baidupcs web` `IPSec VPN` `ssr-server` `v2ray-server`
+
+## 固件插件截图
+
+![固件插件截图](https://drive.google.com/file/d/1BijAZ6Sq1ZauF4viAAvlb23MQcafyhiM/view)
