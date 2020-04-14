@@ -32,6 +32,6 @@
 
 ## 固件包含的精简插件
 
-- 主要功能： `Ssr Plus+` `Passwall`  `Openclash`  `Adguard Home` `多线多拨` `负载均衡`
+- 主要功能： `Ssr Plus+` `Passwall`  `Openclash`  `clash`  `Adguard Home` `多线多拨` `负载均衡`
 
-- 其他功能： `KoolProxyR plus+` `广告屏蔽大师plus+` `解锁网易云灰色歌曲` `动态DNS` `Frp内网穿透` `Kms服务器` `Openvpn` `Baidupcs web` `Pptp VPN` `IPSec VPN` `SoftEther VPN` 
+- 其他功能： `KoolProxyR plus+` `广告屏蔽大师plus+` `解锁网易云灰色歌曲` `动态DNS` `Frp内网穿透` `frps服务端` `Kms服务器` `Baidupcs web` `IPSec VPN` `ssr-server` `v2ray-server`
