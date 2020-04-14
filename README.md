@@ -38,4 +38,4 @@
 
 ## 固件插件截图
 
-![固件插件截图](https://drive.google.com/file/d/1BijAZ6Sq1ZauF4viAAvlb23MQcafyhiM/view)
+![image](https://github.com/superstarfly/autobuild-openwrt-L/raw/master/imgfiles/openwrt-L.jpg)
