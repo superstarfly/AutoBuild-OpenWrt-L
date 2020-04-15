@@ -8,7 +8,7 @@
 
 - 借助`Github Actions`自动生成openwrt固件，感谢大雕[KFERMercer](https://github.com/KFERMercer/OpenWrt-CI)、[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)、[esir](https://github.com/esirplayground/AutoBuild-OpenWrt)
 
-- 定制化编译---必须熟悉整个openwrt编译过程，修改主目录下`x86_64.config` `Build_OP_x86_64.yml`文件即可定制
+- 定制化编译---必须熟悉整个openwrt编译过程，修改目录下`x86_64.config` `Build_OP_x86_64.yml`文件即可定制
 
 - 无需搭建编译环境生成.config文件---可选择在线make menuconfig生成配置文件，感谢大雕[P3TERX](https://github.com/P3TERX/debugger-action)
 
