@@ -4,15 +4,15 @@
 
 ## 项目介绍
 
-- 基于大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)项目仓库源码编译,未有多余的添加及修改，保证纯净
+- 本项目直接调用大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)开源仓库源码，保证纯净
 
 - 借助`Github Actions`自动生成openwrt固件，感谢大雕[KFERMercer](https://github.com/KFERMercer/OpenWrt-CI)、[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)、[esir](https://github.com/esirplayground/AutoBuild-OpenWrt)
 
-- 定制化编译---必须熟悉整个openwrt编译过程，修改主目录下`x86_64.config`文件即可定制
+- 定制化编译---必须熟悉整个openwrt编译过程，修改主目录下`x86_64.config` `Build_OP_x86_64.yml`文件即可定制
 
-- 无需搭建编译环境---可选择在线make menuconfig生成配置文件，感谢大雕[P3TERX](https://github.com/P3TERX/debugger-action)
+- 无需搭建编译环境生成.config文件---可选择在线make menuconfig生成配置文件，感谢大雕[P3TERX](https://github.com/P3TERX/debugger-action)
 
-- 点击顶部`star`即可开始编译，真一键编译
+- `fork`此项目后，点击顶部的`star`即可开始编译`openwrt`固件，真正的一键开始编译
 
 - 本项目插件来源的源码仓库：[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)、[Adguard Home插件](https://github.com/rufengsuixing/luci-app-adguardhome)、[OpenClash插件](https://github.com/vernesong/OpenClash)、[Clash插件](https://github.com/frainzy1477/luci-app-clash)、[KoolProxyR plus+插件](https://github.com/jefferymvp/luci-app-koolproxyR)
 
@@ -22,7 +22,7 @@
 
 - `Fork`此仓库源码 [GitHub repository](https://github.com/superstarfly/AutoBuild-OpenWrt-E)
 
-- 定制化固件---编辑`x86_64.config` `Build_OP_x86_64.yml`
+- 定制化固件---编辑`x86_64.config` `Build_OP_x86_64.yml`文件即可定制
 
 - 开始编译，可在`Actions`标签页进行查看--1）点击顶部`star`即可开始编译；2）也可进入`Build_OP_x86_64.yml`文件取消`push` `branches` `maser`前面`#`开始编译； 3）其他解锁编译由你来发现
 
