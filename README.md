@@ -24,10 +24,10 @@
 
 - 定制化固件---编辑`x86_64.config` `Build_OP_x86_64.yml`
 
-- 开始编译，可在`Actions`标签页进行查看
-- 1）点击顶部`star`即可开始编译;
-- 2）也可进入`Build_OP_x86_64.yml`文件取消`push` `branches` `maser`前面`#`开始编译;
-- 3）其他解锁编译由你来发现
+- 开始编译，可在`Actions`标签页进行查看--
+   1）点击顶部`star`即可开始编译;
+   2）也可进入`Build_OP_x86_64.yml`文件取消`push` `branches` `maser`前面`#`开始编译;
+   3）其他解锁编译由你来发现
 
 - 大功告成，下载固件---进入`Actions`标签页后,点击页面右上方的`Artifacts`即可看到你的固件
 
