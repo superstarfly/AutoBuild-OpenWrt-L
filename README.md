@@ -47,3 +47,13 @@
 ## 固件插件截图(精简L版)
 
 ![image](https://github.com/superstarfly/autobuild-openwrt-L/raw/master/imgfiles/openwrt-L.jpg)
+
+## Donate
+
+如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
+
+## Alipay 支付宝
+![image](https://github.com/superstarfly/autobuild-openwrt-L/raw/master/imgfiles/1.jpg)
+
+## Wechat 微信
+![image](https://github.com/superstarfly/autobuild-openwrt-L/raw/master/imgfiles/2.jpg)
