@@ -1,4 +1,4 @@
-# 借助 GitHub Actions 云编译 OpenWrt x86_64
+# 借助 GitHub Actions 云编译 OpenWrt x86_64(精简L版)
 
 `Github Actions` 是 GitHub 推出的持续集成服务，它提供了配置非常不错的虚拟服务器环境（E5 2vCPU/7G RAM），基于它可以进行构建、测试、打包、部署项目。
 
@@ -38,12 +38,12 @@
 
 - OpenWrt默认lan IP： `192.168.5.1`, 用户名 `root`，密码 `password`
 
-## 固件包含的精简插件(简约L版)
+## 固件包含的精简插件(精简L版)
 
 - 主要功能： `Ssr Plus+` `Passwall`  `Openclash`  `clash`  `Adguard Home` `多线多拨` `负载均衡`
 
 - 其他功能： `KoolProxyR plus+` `广告屏蔽大师plus+` `解锁网易云灰色歌曲` `动态DNS` `Frp内网穿透` `frps服务端` `Kms服务器` `Baidupcs web` `IPSec VPN` `ssr-server` `v2ray-server`
 
-## 固件插件截图(简约L版)
+## 固件插件截图(精简L版)
 
 ![image](https://github.com/superstarfly/autobuild-openwrt-L/raw/master/imgfiles/openwrt-L.jpg)
