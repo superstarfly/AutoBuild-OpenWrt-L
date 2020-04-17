@@ -4,7 +4,7 @@
 
 ## 项目介绍
 
-- diff - red由于大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)转移或删除了`Ssr Plus+` `Passwall`源码，本项目已做好相应修改，直接编译即可获得最新`Ssr Plus+` `Passwall`插件
+- 由于大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)转移或删除了`Ssr Plus+` `Passwall`源码，本项目已做好相应修改，直接编译即可获得最新`Ssr Plus+` `Passwall`插件 red
 
 - 本项目直接调用大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)开源仓库源码，保证纯净
 
